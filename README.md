@@ -2,15 +2,15 @@
 
 ## PA1
 Sorting
--InsertionSort
--MergeSort
--QuickSort
--Rnadomized Quicksort
--HeapSort
+1. InsertionSort
+2. MergeSort
+3. QuickSort
+4. Rnadomized Quicksort
+5. HeapSort
 
 ## PA2
 Maximum Planar Subset
 
 ## PA3
 Cycle Breaking
-(minimum feedback arc set problem for directed graph)
+ (minimum feedback arc set problem for directed graph)
