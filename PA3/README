@@ -1,0 +1,6 @@
+// Type the following commands under b10502076_pa3 directory
+
+make
+./bin/cb inputs/<input file name> outputs/<output file name>
+
+// for example: ./bin/cb ./inputs/public_case_0.in ./outputs/public_case_0.out

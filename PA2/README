@@ -1,0 +1,6 @@
+// Type the following commands under b10502076_pa2 directory
+
+make
+./bin/mps inputs/<input file name> outputs/<output file name>
+
+// for example: ./bin/mps ./inputs/100000.in ./outputs/100000.out

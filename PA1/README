@@ -1,0 +1,5 @@
+Type the following commands under b10502076_pa1 directory
+
+make
+cd bin
+./NTU_sort –[IS|MS|QS|RQS|HS] <input_file_name> <output_file_name>
